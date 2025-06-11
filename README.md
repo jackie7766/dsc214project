@@ -29,5 +29,11 @@ pip install -r requirements.txt
 
 
 
+#presentation link
+
+https://www.youtube.com/watch?v=t8NWUIlc0sM
+
+
+
 
 
