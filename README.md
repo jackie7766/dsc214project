@@ -29,6 +29,7 @@ To run the notebook, you need the following packages:
 You can install the requirements using:
 ```bash
 pip install -r requirements.txt
+```
 
 
 
