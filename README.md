@@ -22,6 +22,7 @@ To run the notebook, you need the following packages:
 - `torch` (for model training)
 
 You can install the requirements using:
+```bash
 pip install -r requirements.txt
 
 
